@@ -3,3 +3,4 @@
  - JAVA
  - Maven
  - Spring JPA
+ - MySQL
